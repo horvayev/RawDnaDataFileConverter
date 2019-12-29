@@ -1,0 +1,60 @@
+##fileformat=MyHeritage
+##format=MHv1.0
+##chip=GSA
+##timestamp=2019-12-22 09:09:35 UTC
+##reference=build37
+#
+# MyHeritage DNA raw data.
+# For each SNP, we provide the identifier, chromosome number, base pair position and genotype.
+# The genotype is reported on the forward (+) strand with respect to the human reference build 37.
+# THIS INFORMATION IS FOR YOUR PERSONAL USE AND IS INTENDED FOR GENEALOGICAL RESEARCH
+# ONLY. IT IS NOT INTENDED FOR MEDICAL OR HEALTH PURPOSES. PLEASE BE AWARE THAT THE
+# DOWNLOADED DATA WILL NO LONGER BE PROTECTED BY OUR SECURITY MEASURES.
+RSID,CHROMOSOME,POSITION,RESULT
+"rs547237130","1","72526","AA"
+"rs562180473","1","565703","AA"
+"rs575203260","1","567693","TT"
+"rs3131972","1","752721","GG"
+"rs200599638","1","752918","GG"
+"rs12184325","1","754105","CC"
+"rs114525117","1","759036","GG"
+"rs2980300","1","785989","CC"
+"rs11240777","1","798959","GG"
+"rs79373928","1","801536","TT"
+"rs547376081","1","830731","CC"
+"rs116452738","1","834830","GG"
+"rs72631887","1","835092","TT"
+"rs4970383","1","838555","AC"
+"rs4475691","1","846808","CC"
+"rs72631889","1","851390","GG"
+"rs7537756","1","854250","AG"
+"rs13302982","1","861808","GG"
+"rs376747791","1","863130","AA"
+"rs1110052","1","873558","GT"
+"rs148327885","1","878331","CC"
+"rs143853699","1","879911","GG"
+"rs67274836","1","884767","GG"
+"rs3748597","1","888659","CC"
+"rs3828049","1","889238","GG"
+"rs77608078","1","891277","CC"
+"rs13303106","1","891945","AG"
+"rs13303010","1","894573","AA"
+"rs2340592","1","910935","--"
+"rs3748588","1","911101","CC"
+"rs186101910","1","914749","CC"
+"rs2341354","1","918573","AG"
+"rs61770779","1","919927","GG"
+"rs3128117","1","944564","TT"
+"rs2341365","1","948692","AA"
+"rs2710888","1","959842","CC"
+"rs3128126","1","962210","AA"
+"rs138288952","1","978762","GG"
+"rs144164397","1","978804","CC"
+"rs79016973","1","978974","GG"
+"rs143324306","1","979397","GG"
+"rs113288277","1","979748","AA"
+"rs112039851","1","980824","GG"
+"rs146243145","1","980868","GG"
+"rs142620337","1","983243","CC"
+"rs111818381","1","984971","GG"
+"rs145444272","1","986165","GG"
